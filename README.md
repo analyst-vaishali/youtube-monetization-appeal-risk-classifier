@@ -55,4 +55,4 @@ python youtube_risk_scoring_code.py
 - Professional tone and evidence provision strongly correlate with genuine appeals
 - 30% of deceptive appeals explicitly threaten to create duplicate channels
 
-##Author: Vaishali Desai | Business Analyst | MBA Business Analytics - Gannon University, USA | Trust & Safety Operations
+Author: Vaishali Desai | Business Analyst | MBA Business Analytics - Gannon University, USA | Trust & Safety Operations
